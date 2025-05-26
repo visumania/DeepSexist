@@ -1,4 +1,6 @@
 /DatasetManagement/EXIST2025DatasetV0.3
 /TrainingBooks/results
 /TrainingBooks/Task3.3/results
-/TrainingBooks/outputs*/
+/TrainingBooks/Task3.3/outputs_llm_peft
+/TrainingBooks/outputs_llm
+/TrainingBooks/outputs_llm_peft/
