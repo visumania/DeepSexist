@@ -1,5 +1,4 @@
 /DatasetManagement/EXIST2025DatasetV0.3
 /TrainingBooks/results
-TrainingBooks/Task3.3/results
-/DeepSexist/TrainingBooks/Task3.3/outputs_llm_peft
+/TrainingBooks/Task3.3/results
 /TrainingBooks/outputs*
