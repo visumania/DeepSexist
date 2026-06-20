@@ -11,6 +11,6 @@ Con respecto a la carpeta de **Transformers**:
     - Modelos en inglés:
       - *RoBERTa-Base*
       - *BERTweet*
-      - *DeBERTa V3*
+      - *DeBERTaV3*
     - Otra opción es traducir y pasárselo al modelo del otro idioma.
 - El mejor de los dos apartados anteriores le hacemos optimización de hiperparámetros (5 o 6 hiperparámetros)
