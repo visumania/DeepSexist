@@ -4,5 +4,13 @@ Con respecto a la carpeta de **Transformers**:
   - *xlm-roberta-base*
   - *ThHIN-BERT*
 - Comparar 3 por *separado* (español/inglés), es decir 3 de español y 3 de inglés
+    - Modelos en español:
+      - *BETO*
+      - *RoBERTa-BNE*
+      - *RoBERTuito*
+    - Modelos en inglés:
+      - *RoBERTa-Base*
+      - *BERTweet*
+      - *DeBERTa V3*
     - Otra opción es traducir y pasárselo al modelo del otro idioma.
 - El mejor de los dos apartados anteriores le hacemos optimización de hiperparámetros (5 o 6 hiperparámetros)
