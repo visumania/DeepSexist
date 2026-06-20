@@ -2,7 +2,7 @@ Con respecto a la carpeta de **Transformers**:
 - Comparar 3 Transformers *multilingual*, a continuación expongo 3 modelos multilingual potenciales candidatos para ser tratados en este apartado:
   - *mmBERT*
   - *xlm-roberta-base*
-  - *ThHIN-BERT*
+  - *ThwHIN-BERT*
 - Comparar 3 por *separado* (español/inglés), es decir 3 de español y 3 de inglés
     - Modelos en español:
       - *BETO*
