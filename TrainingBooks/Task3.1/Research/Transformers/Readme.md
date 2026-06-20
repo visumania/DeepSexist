@@ -1,7 +1,7 @@
 Con respecto a la carpeta de **Transformers**:
 - Comparar 3 Transformers *multilingual*, a continuación expongo 3 modelos multilingual potenciales candidatos para ser tratados en este apartado:
   - *mmBERT*
-  - *xlm-roberta-base* o *xlm-roberta-large* el que me permita google colab
+  - *xlm-roberta-base*
   - *ThHIN-BERT*
 - Comparar 3 por *separado* (español/inglés), es decir 3 de español y 3 de inglés
     - Otra opción es traducir y pasárselo al modelo del otro idioma.
