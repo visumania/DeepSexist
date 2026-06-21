@@ -6,7 +6,7 @@ Con respecto a la carpeta de **Transformers**:
 - Comparar 3 por *separado* (español/inglés), es decir 3 de español y 3 de inglés
     - Modelos en español:
       - *BETO*
-      - *RoBERTa-BNE*
+      - *BERTin*
       - *RoBERTuito*
     - Modelos en inglés:
       - *RoBERTa-Base*
