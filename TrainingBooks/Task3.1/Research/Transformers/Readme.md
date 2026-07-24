@@ -7,9 +7,9 @@ Con respecto a la carpeta de **Transformers**:
     - Modelos en español:
       - *BETO*
       - *BERTin*
-      - *RoBERTuito* --> ganador de todos
+      - *RoBERTuito* 
     - Modelos en inglés:
-      - *RoBERTa-Base*
+      - *RoBERTa-Base* --> ganador de todos
       - *BERTweet*
       - *DeBERTaV3* --> imposible echarlo a andar
       - *Electra-base-discriminator*
